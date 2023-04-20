@@ -1,0 +1,46 @@
+:root {
+    --debut: #BCD6B9;
+    --fearless: #F7D099;
+    --speak_now: #C9AECA;
+    --red: #8C3E4B;
+    --midnights: #2F3450;
+    --nyc:#C0EBFA;
+    --rep: #837C7E;
+    --lover: #FABBD2;
+    --evermore: #CCB59B;
+    --folklore: #D3CCCA;
+}
+
+h1 {
+    font-family: "eloquent-jf-small-caps-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45pt;
+    text-align: center;
+}
+
+label {
+    font-family: "eloquent-jf-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+}
+
+input {
+    font-family: "eloquent-jf-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+}
+
+body {
+
+}
+
+form {
+    background-color: var(--midnights);
+    border: solid 8px var(--midnights);
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+}

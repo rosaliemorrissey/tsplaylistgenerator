@@ -1,0 +1,418 @@
+{
+  "March 17, 2023": {
+    "city": "Glendale",
+    "venue": "State Farm Stadium",
+    "openers": [
+      "Paramore",
+      "Gayle"
+    ]
+  },
+  "March 18, 2023": {
+    "city": "Glendale",
+    "venue": "State Farm Stadium",
+    "openers": [
+      "Paramore",
+      "Gayle"
+    ]
+  },
+  "March 24, 2023": {
+    "city": "Paradise[a]",
+    "venue": "Allegiant Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gayle"
+    ]
+  },
+  "March 25, 2023": {
+    "city": "Paradise[a]",
+    "venue": "Allegiant Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gayle"
+    ]
+  },
+  "March 31, 2023": {
+    "city": "Arlington",
+    "venue": "AT&T Stadium",
+    "openers": [
+      "Muna",
+      "Gayle"
+    ]
+  },
+  "April 1, 2023": {
+    "city": "Arlington",
+    "venue": "AT&T Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 2, 2023": {
+    "city": "Arlington",
+    "venue": "AT&T Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 13, 2023": {
+    "city": "Tampa",
+    "venue": "Raymond James Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gayle"
+    ]
+  },
+  "April 14, 2023": {
+    "city": "Tampa",
+    "venue": "Raymond James Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 15, 2023": {
+    "city": "Tampa",
+    "venue": "Raymond James Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 21, 2023": {
+    "city": "Houston",
+    "venue": "NRG Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 22, 2023": {
+    "city": "Houston",
+    "venue": "NRG Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 23, 2023": {
+    "city": "Houston",
+    "venue": "NRG Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 28, 2023": {
+    "city": "Atlanta",
+    "venue": "Mercedes-Benz Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 29, 2023": {
+    "city": "Atlanta",
+    "venue": "Mercedes-Benz Stadium",
+    "openers": [
+      "Beabadoobee",
+      "Gracie Abrams"
+    ]
+  },
+  "April 30, 2023": {
+    "city": "Atlanta",
+    "venue": "Mercedes-Benz Stadium",
+    "openers": [
+      "Muna",
+      "Gayle"
+    ]
+  },
+  "May 5, 2023": {
+    "city": "Nashville",
+    "venue": "Nissan Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gracie Abrams"
+    ]
+  },
+  "May 6, 2023": {
+    "city": "Nashville",
+    "venue": "Nissan Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 7, 2023": {
+    "city": "Nashville",
+    "venue": "Nissan Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gracie Abrams"
+    ]
+  },
+  "May 12, 2023": {
+    "city": "Philadelphia",
+    "venue": "Lincoln Financial Field",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 13, 2023": {
+    "city": "Philadelphia",
+    "venue": "Lincoln Financial Field",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 14, 2023": {
+    "city": "Philadelphia",
+    "venue": "Lincoln Financial Field",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gracie Abrams"
+    ]
+  },
+  "May 19, 2023": {
+    "city": "Foxborough",
+    "venue": "Gillette Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 20, 2023": {
+    "city": "Foxborough",
+    "venue": "Gillette Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 21, 2023": {
+    "city": "Foxborough",
+    "venue": "Gillette Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gracie Abrams"
+    ]
+  },
+  "May 26, 2023": {
+    "city": "East Rutherford",
+    "venue": "MetLife Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gayle"
+    ]
+  },
+  "May 27, 2023": {
+    "city": "East Rutherford",
+    "venue": "MetLife Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Gracie Abrams"
+    ]
+  },
+  "May 28, 2023": {
+    "city": "East Rutherford",
+    "venue": "MetLife Stadium",
+    "openers": [
+      "Phoebe Bridgers",
+      "Owenn"
+    ]
+  },
+  "June 2, 2023": {
+    "city": "Chicago",
+    "venue": "Soldier Field",
+    "openers": [
+      "Girl in Red",
+      "Owenn"
+    ]
+  },
+  "June 3, 2023": {
+    "city": "Chicago",
+    "venue": "Soldier Field",
+    "openers": [
+      "Girl in Red",
+      "Owenn"
+    ]
+  },
+  "June 4, 2023": {
+    "city": "Chicago",
+    "venue": "Soldier Field",
+    "openers": [
+      "Muna",
+      "Gracie Gracie"
+    ]
+  },
+  "June 9, 2023": {
+    "city": "Detroit",
+    "venue": "Ford Field",
+    "openers": [
+      "Girl in Red",
+      "Gracie Abrams"
+    ]
+  },
+  "June 10, 2023": {
+    "city": "Detroit",
+    "venue": "Ford Field",
+    "openers": [
+      "Girl in Red",
+      "Owenn"
+    ]
+  },
+  "June 16, 2023": {
+    "city": "Pittsburgh",
+    "venue": "Acrisure Stadium",
+    "openers": [
+      "Girl in Red",
+      "Gracie Abrams"
+    ]
+  },
+  "June 17, 2023": {
+    "city": "Pittsburgh",
+    "venue": "Acrisure Stadium",
+    "openers": [
+      "Girl in Red",
+      "Owenn"
+    ]
+  },
+  "June 23, 2023": {
+    "city": "Minneapolis",
+    "venue": "U.S. Bank Stadium",
+    "openers": [
+      "Girl in Red",
+      "Gracie Abrams"
+    ]
+  },
+  "June 24, 2023": {
+    "city": "Minneapolis",
+    "venue": "U.S. Bank Stadium",
+    "openers": [
+      "Girl in Red",
+      "Owenn"
+    ]
+  },
+  "June 30, 2023": {
+    "city": "Cincinnati",
+    "venue": "Paycor Stadium",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 1, 2023": {
+    "city": "Cincinnati",
+    "venue": "Paycor Stadium",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 7, 2023": {
+    "city": "Kansas City",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 8, 2023": {
+    "city": "Kansas City",
+    "venue": "GEHA Field at Arrowhead Stadium",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 14, 2023": {
+    "city": "Denver",
+    "venue": "Empower Field at Mile High",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 15, 2023": {
+    "city": "Denver",
+    "venue": "Empower Field at Mile High",
+    "openers": [
+      "Muna",
+      "Gracie Abrams"
+    ]
+  },
+  "July 22, 2023": {
+    "city": "Seattle",
+    "venue": "Lumen Field",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "July 23, 2023": {
+    "city": "Seattle",
+    "venue": "Lumen Field",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "July 28, 2023": {
+    "city": "Santa Clara",
+    "venue": "Levi's Stadium",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "July 29, 2023": {
+    "city": "Santa Clara",
+    "venue": "Levi's Stadium",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "August 3, 2023": {
+    "city": "Inglewood[b]",
+    "venue": "SoFi Stadium",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "August 4, 2023": {
+    "city": "Inglewood[b]",
+    "venue": "SoFi Stadium",
+    "openers": [
+      "Haim",
+      "Owenn"
+    ]
+  },
+  "August 5, 2023": {
+    "city": "Inglewood[b]",
+    "venue": "SoFi Stadium",
+    "openers": [
+      "Haim",
+      "Gayle"
+    ]
+  },
+  "August 8, 2023": {
+    "city": "Inglewood[b]",
+    "venue": "SoFi Stadium",
+    "openers": [
+      "Haim",
+      "Gracie Abrams"
+    ]
+  },
+  "August 9, 2023": {
+    "city": "Inglewood[b]",
+    "venue": "SoFi Stadium",
+    "openers": [
+      "Haim",
+      "Gayle"
+    ]
+  }
+}
